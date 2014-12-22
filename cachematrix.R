@@ -3,6 +3,7 @@
 ## cached rather than re-computed repeatedly (unless the matrix is changed). 
 
 
+
 ## This function creates a special "matrix" object that can cache its inverse.
 ## The matrix itself is stored in the variable x
 ## and its inverse is tored in the vairable inv after it has been calculated.
